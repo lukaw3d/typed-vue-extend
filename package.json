@@ -1,0 +1,19 @@
+{
+  "name": "typed-vue-extend",
+  "version": "1.0.0",
+  "description": "VueComponent.extend type is not strict enough. This type ensures extended methods exist and their types match.",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "vue": "^2"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "vue": "^2.6.12"
+  },
+  "keywords": [
+    "vue",
+    "typescript"
+  ],
+  "author": "lukaw3d",
+  "license": "MIT"
+}

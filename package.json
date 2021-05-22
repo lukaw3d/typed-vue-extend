@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "VueComponent.extend type is not strict enough. This type ensures extended methods exist and their types match.",
   "types": "index.d.ts",
+  "main": "empty.js",
   "peerDependencies": {
     "vue": "^2"
   },

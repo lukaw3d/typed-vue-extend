@@ -25,3 +25,5 @@ Component.extend({
 ```
 
 See [./test.ts](./test.ts)
+
+Note: editors commonly use shims-vue.d.ts for Component.vue imports. In those cases editor will not show errors detected by TypedVueExtendOverride - only compilation will.
